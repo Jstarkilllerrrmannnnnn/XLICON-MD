@@ -1,7 +1,7 @@
 {
-               "name": "xlicon-md",
+               "name": "Jordan-Joelstar-md",
                "version": "0.0.8",
-               "description": "Multi device whatsapp bot by Samanytofficial.",
+               "description": "Multi device whatsapp bot by Jordan.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -72,10 +72,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/salmanytofficial/XLICON-MD.git"
+                 "url": "git+https://github.com/Jstarkilllerrrmannnnnn/XLICON-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/salmanytofficial/XLICON-MD/issues"
+                 "url": "https://github.com/Jstarkilllerrrmannnnnn/XLICON-MD/issues"
                   },
-                 "homepage": "https://github.com/salmanytofficial/XLICON-MD#readme"
+                 "homepage": "https://github.com/Jstarkilllerrrmannnnnn/XLICON-MD#readme"
                   }
